@@ -1,0 +1,1 @@
+LOL_API_KEY = ""; // Riot develop API key for using riot API 
