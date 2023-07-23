@@ -1,9 +1,9 @@
 declare global {
-  namespace NodeJS {
-    interface ProcessEnv {
-      TELEGRAM_API_TOKEN: string;
-    }
-  }
+	namespace NodeJS {
+		interface ProcessEnv {
+			TELEGRAM_API_TOKEN: string
+		}
+	}
 }
 
 // If this file has no import/export statements (i.e. is a script)
