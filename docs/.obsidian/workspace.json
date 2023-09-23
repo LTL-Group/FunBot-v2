@@ -4,11 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "7c05917323a23a13",
+        "id": "be4c0e9756f9a7e4",
         "type": "tabs",
         "children": [
           {
-            "id": "b820b4fbd888cee3",
+            "id": "9ba1a0c8b64b20e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "commands/start.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9928a3ea6a29d697",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,21 +30,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "d9785707a1d53067",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "modules/league-of-legends/API/LOL API.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "modules/league-of-legends/types/api.md",
+                "file": "commands/start.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "modules/league-of-legends/types/api.md",
+                "file": "commands/start.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "modules/league-of-legends/types/api.md"
+                "file": "commands/start.md"
               }
             }
           }
@@ -161,20 +160,26 @@
   },
   "active": "795e6b6c6f83f196",
   "lastOpenFiles": [
-    "modules/league-of-legends/types/api.md",
+    "commands/profile.md",
+    "commands/help.md",
+    "commands/settings.md",
+    "commands/start.md",
     "modules/league-of-legends/API/LOL API.md",
+    "modules/league-of-legends/types/api.md",
     "modules/league-of-legends/env.md",
-    "modules/league-of-legends/types",
     "modules/league-of-legends/main.md",
     "Differences from the Python version.md",
+    "tmp/lapricot/Seance.md",
+    "tmp/lapricot/subcat.md",
+    "tmp/ideas.md",
+    "main.md",
+    "tmp/lapricot",
+    "tmp",
+    "modules/league-of-legends/types",
     "modules/league-of-legends",
     "modules",
-    "commands/help.md",
     "API/Untitled 1.md",
-    "commands/profile.md",
     "modules/league-of-legends/API",
-    "commands/start.md",
-    "main.md",
     "commands"
   ]
 }

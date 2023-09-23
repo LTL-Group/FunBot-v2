@@ -9,6 +9,7 @@ This bot was created to combine training and games in League of Legends by worki
 
 🆘 For get all commands - /help
 🗿 To see your profile - /profile
+Settings - /settings
 
 🍌 Current bot version: ${VERSION}
 ```
