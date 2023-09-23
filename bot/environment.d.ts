@@ -1,7 +1,7 @@
 declare global {
 	namespace NodeJS {
 		interface ProcessEnv {
-			TELEGRAM_API_TOKEN: string
+			TELEGRAM_BOT_TOKEN: string
 		}
 	}
 }
