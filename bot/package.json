@@ -3,7 +3,7 @@
 	"description": "Telegram trainings bot fo League of Legends",
 	"version": "0.0.0-alpha1",
 	"scripts": {
-		"start": "ts-node src/main.ts",
+		"start": "ts-node api/polling.ts",
 		"dev": "nodemon",
 		"build": "tsc",
 		"test": "jest",
